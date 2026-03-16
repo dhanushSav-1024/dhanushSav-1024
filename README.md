@@ -1,3 +1,3 @@
 <picture>
-  <img alt="Monkey mad" src="images/monkeymad.gif" />
+  <img alt="Monkey mad" src="images/agirl.gif" />
 </picture>
